@@ -14,3 +14,7 @@
     background-size: 800px 200px;
     background-size: 300px 100px;
   }
+
+div {
+    block-size: 400px;
+}
