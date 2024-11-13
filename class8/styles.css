@@ -7,7 +7,7 @@
   }
   
   #example2 {
-    border: 2px solid black;
+    /* border: 2px solid black; */
     padding: 25px;
     background: url(mountai.webp);
     background-repeat: no-repeat;
@@ -25,5 +25,5 @@ div {
     border: 4px outset;
     border: 4px ridge;
     border: 4px groove;
-    border: double;
+    border: 10px double;
 }
