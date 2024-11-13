@@ -17,4 +17,13 @@
 
 div {
     block-size: 400px;
+    border: 5px solid red;
+    border: 10px solid red;
+    border: 4px dotted blue;
+    border: 4px dashed blue;
+    border: 4px inset;
+    border: 4px outset;
+    border: 4px ridge;
+    border: 4px groove;
+    border: double;
 }
