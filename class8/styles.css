@@ -1,45 +1,16 @@
-body{
-    background-color:rgb(255, 255, 255);
-    background-image: url(apple.jpg);
+#example1 {
+    border: 2px solid black;
+    padding: 25px;
+    background: url(mountai.webp);
     background-repeat: no-repeat;
-    background-position: top right;
-    background-position: top left;
-    background-position: top center ;
-    background-position: center right;
-    background-position: center ;
-    background-position: center left;
-    background-position: bottom right;
-    background-position: center bottom ;
-    background-position: center bottom;
-    background-attachment: fixed;
-    background-position: 50px 150px;
-    background-position: initial;   /* Sets this property to its default value */
-    background-position: inherit;   /* Inherits this property from its parent element */
-
-    background-repeat: repeat;
-    background-repeat: repeat-x;
-    background-repeat: repeat-y;
+    background-size: auto;
+  }
+  
+  #example2 {
+    border: 2px solid black;
+    padding: 25px;
+    background: url(mountai.webp);
     background-repeat: no-repeat;
-    background-repeat: space;
-    background-repeat: round; 
-}
-h1 {
-      background-color: green;
-    }
-    
-div {
-      background-color: lightblue;
-
-    }
-    
-p {
-      background-color: yellow;
-    }
-.second-div{
-    background-color: rgba(10, 197, 0, 0.3); /* Green background with 30% opacity */
-    margin: 100px;
-    height: 300px;
-    opacity:1 ;
-    background-image: url(web-developer.jpg);
-    background-size: cover;
-}
+    background-size: 800px 200px;
+    background-size: 300px 100px;
+  }
