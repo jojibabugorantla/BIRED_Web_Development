@@ -3,6 +3,7 @@ body{
     background-image: url(apple.jpg);
     background-repeat: no-repeat;
     background-position: right top;
+    background-attachment: fixed;
 }
 h1 {
       background-color: green;
