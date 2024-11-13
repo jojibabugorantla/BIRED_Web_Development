@@ -12,8 +12,10 @@ body{
     background-position: center bottom ;
     background-position: center bottom;
     background-attachment: fixed;
-    /* background-position: 50px 150px; */
-
+    background-position: 50px 150px;
+    background-position: initial;   /* Sets this property to its default value */
+    background-position: inherit;   /* Inherits this property from its parent element */
+    
 }
 h1 {
       background-color: green;
