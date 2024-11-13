@@ -35,9 +35,11 @@ div {
 p {
       background-color: yellow;
     }
-.first-div{
+.second-div{
     background-color: rgba(10, 197, 0, 0.3); /* Green background with 30% opacity */
     margin: 100px;
-    opacity: 0.5;
-
+    height: 300px;
+    opacity:1 ;
+    background-image: url(web-developer.jpg);
+    background-size: cover;
 }
