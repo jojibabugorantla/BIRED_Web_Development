@@ -13,7 +13,7 @@ p {
       background-color: yellow;
     }
 .first-div{
-    background-color: greenyellow;
+    background-color: rgba(10, 197, 0, 0.3); /* Green background with 30% opacity */
     margin: 100px;
     opacity: 0.5;
 }
