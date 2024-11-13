@@ -15,4 +15,5 @@ p {
 .first-div{
     background-color: greenyellow;
     margin: 100px;
+    opacity: 0.5;
 }
