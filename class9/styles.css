@@ -19,3 +19,6 @@
     width: 20%;
     margin: -auto 10px 10px 10px;
 }
+h1,p {
+    margin: 0;
+}
