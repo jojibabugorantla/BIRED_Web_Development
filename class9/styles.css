@@ -1,9 +1,11 @@
 #my-div-1{
+    box-sizing: border-box;
     width: 100px;
     border:  5px solid red;
     padding: 20px;
 }
 #my-div-2{
+    box-sizing: border-box;
     width: 100px;
     border: 5px solid red;
 }
