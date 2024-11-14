@@ -23,6 +23,7 @@
     width: 200px;
     height: 200px;
     background-color: rgba(111, 235, 111, 0.5);
+    opacity: 0.5;
 }
 h1,p {
     margin: 0;
