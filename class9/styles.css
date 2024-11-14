@@ -15,4 +15,7 @@
     border-right: none;
     border-left-width: 0;
     outline-offset: 10px;
+    background-color: aqua;
+    width: 20%;
+    margin: -auto 10px 10px 10px;
 }
