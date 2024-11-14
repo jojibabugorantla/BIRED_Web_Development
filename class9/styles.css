@@ -23,7 +23,7 @@
     width: 400px;
     height: 300px;
     background-color: rgba(111, 235, 111, 0.5);
-    border: 10px dashed red;
+    border: 10px dashed rgba(226, 171, 171, 0.301);
     background-image: url(../class8/mountai.webp);
     background-size: contain;
     padding: 40px;
