@@ -25,7 +25,7 @@
     background-color: rgba(111, 235, 111, 0.5);
     border: 10px dashed red;
     background-image: url(../class8/mountai.webp);
-    background-size: 100px;
+    background-size: cover;
 }
 h1,p {
     margin: 0;
