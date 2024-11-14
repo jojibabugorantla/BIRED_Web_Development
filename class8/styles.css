@@ -1,3 +1,18 @@
+#solid{
+    border: 10px solid;
+}
+#bottom{
+  border-bottom: 2px solid blue;
+}
+
+#left{
+  border-left: 10px solid;
+}
+#rounded{
+  border: 10px solid rgb(193, 193, 255);
+  border-radius: 50px;
+}
+
 #example1 {
     border: 2px solid black;
     padding: 25px;
@@ -26,4 +41,15 @@ div {
     border: 4px ridge;
     border: 4px groove;
     border: 10px double;
+    border-block-style: dotted;
+    border-block-style: dashed;
+    border-block-style: dashed dotted;
+    border-block-style: solid;
+    border-block-style: double;
+    border-block-style: groove;
+    border-block-style: ridge;
+    border-block-style: inset;
+    border-block-style: outset;
+    border-block-style: initial;
+    border-block-style: inherit;
 }
