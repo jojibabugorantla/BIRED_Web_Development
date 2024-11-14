@@ -20,12 +20,18 @@
     margin: -auto 10px 10px 10px;
 }
 #my-div-3{
-    width: 200px;
-    height: 200px;
+    width: 400px;
+    height: 300px;
     background-color: rgba(111, 235, 111, 0.5);
     border: 10px dashed red;
     background-image: url(../class8/mountai.webp);
-    background-size: cover;
+    background-size: contain;
+    padding: 40px;
+    background-origin: border-box;
+    background-origin: padding-box;
+    background-origin: content-box;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 h1,p {
     margin: 0;
