@@ -27,3 +27,10 @@ p{
     line-height: 1.5;
     text-transform: title;
 }
+.container{
+    text-align: center;
+    font-size: 60px;
+    color: red;
+    text-shadow: 10px 1px  rgb(0, 0, 0); 
+    /* first one  horizontal and next one for up and down */
+}
