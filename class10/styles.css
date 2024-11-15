@@ -1,0 +1,13 @@
+h1{
+    color: aquamarine;
+    background-color: rgb(0, 104, 196);
+}
+p{
+    /* color: blueviolet;
+    background-color: rgb(208, 255, 0); */
+
+}
+div + p{
+    color: red;
+    background-color: greenyellow;
+}
