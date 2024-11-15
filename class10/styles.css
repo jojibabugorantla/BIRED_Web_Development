@@ -1,3 +1,28 @@
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900 */
+
+body{
+  font-family: "Doto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-variation-settings: "ROND" 0;
+}
+
+body{
+
+        font-family: "Slabo 27px", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+
+body{
+        font-family: "Monsieur La Doulaise", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+}
 h1{
     color: aquamarine;
     background-color: rgb(0, 104, 196);
