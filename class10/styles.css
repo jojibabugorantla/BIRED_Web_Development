@@ -20,3 +20,6 @@ a:hover {
 a:active{
     color: green;
 }
+p{
+    text-align: right;
+}
