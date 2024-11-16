@@ -15,6 +15,13 @@ body{
         font-weight: 400;
         font-style: normal;
       }
+p {
+    padding: 10px;
+    border: 10px solid green;
+    border-left: 10px solid red;
+    border-bottom: 10px solid yellow;
+    border-right: 10px solid aqua;
+}
 
 /* body{
         font-family: "Monsieur La Doulaise", cursive;
