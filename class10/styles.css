@@ -21,6 +21,7 @@ p {
     border-left: 10px solid red;
     border-bottom: 10px solid yellow;
     border-right: 10px solid aqua;
+    border-radius: 50%;
 }
 
 /* body{
