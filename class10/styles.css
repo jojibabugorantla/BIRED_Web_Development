@@ -16,13 +16,12 @@ body{
         font-style: normal;
       }
 
-body{
+/* body{
         font-family: "Monsieur La Doulaise", cursive;
         font-weight: 400;
         font-style: normal;
-      }
+      } */
       
-}
 h1{
     color: aquamarine;
     background-color: rgb(0, 104, 196);
@@ -35,6 +34,7 @@ p{
 div  p{
     color: red;
     background-color: greenyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
 a:hover {
