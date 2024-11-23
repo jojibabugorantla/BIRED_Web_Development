@@ -403,7 +403,7 @@
 
 /* https://www.flaticon.com/ for icon */ 
 
-ul{
+.list ul{
     background-color: rgb(136, 231, 231);
     width: 50%;
     list-style-type: circle;
@@ -417,6 +417,27 @@ ul{
 
 
 }
-li{
+.list li{
     background-color: rgb(206, 246, 255);
+}
+.menu ul{
+    background-color: aqua;
+    list-style: none;
+    padding: 0px;
+}
+.menu li{
+    list-style: none;
+    background-color: rgb(180, 255, 66);
+    width: 100px;
+    text-decoration: none;
+}
+.menu a:hover{
+    text-decoration: none;
+}
+.menu li:hover{
+    background-color: rgb(134, 225, 255);
+
+}
+.menu li:hover a{
+    color: white;
 }
