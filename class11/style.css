@@ -331,3 +331,72 @@
     color: rgb(0, 0, 0);
     
 }
+
+
+
+
+/* my-table-pink-50  */
+.my-table-pink-50{
+    width: 50%;
+}
+
+.my-table-pink-50 table , .my-table-pink-50 th, .my-table-pink-50 td{
+    border: 1px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+    
+}
+.my-table-pink-50 th, .my-table-pink-50 td{
+    padding: 6px 16px;
+}
+.my-table-pink-50 th{
+    background-color:pink;
+    color: rgb(0, 0, 0);
+}
+.my-table-pink-50 tr:nth-child(odd){
+    background-color: rgb(249, 168, 211);
+} 
+.my-table-pink-50 tr:hover{
+    background-color: rgb(231, 44, 165);
+    cursor: pointer;
+}
+.my-table-pink-50 caption{
+    caption-side:top;
+    text-align: center;
+    background-color: rgb(243, 62, 222);
+    color: rgb(0, 0, 0);
+    
+}
+
+
+
+/* my-table-pink-100  */
+.my-table-pink-100{
+    width: 100%;
+}
+
+.my-table-pink-100 table , .my-table-pink-100 th, .my-table-pink-100 td{
+    border: 1px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+    
+}
+.my-table-pink-100 th, .my-table-pink-100 td{
+    padding: 6px 16px;
+}
+.my-table-pink-100 th{
+    background-color:pink;
+    color: rgb(0, 0, 0);
+}
+.my-table-pink-100 tr:nth-child(odd){
+    background-color: rgb(249, 168, 211);
+} 
+.my-table-pink-100 tr:hover{
+    background-color: rgb(231, 44, 165);
+    cursor: pointer;
+}
+.my-table-pink-100 caption{
+    caption-side:top;
+    text-align: center;
+    background-color: rgb(243, 62, 222);
+    color: rgb(0, 0, 0);
+    
+}
