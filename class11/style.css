@@ -400,3 +400,23 @@
     color: rgb(0, 0, 0);
     
 }
+
+/* https://www.flaticon.com/ for icon */ 
+
+ul{
+    background-color: rgb(136, 231, 231);
+    width: 50%;
+    list-style-type: circle;
+    list-style-type: none;
+    list-style-type: lower-alpha;
+    list-style-type: upper-alpha;
+    list-style-type: number;          
+    list-style-position: inside;
+    /* padding: 0;
+    padding-left:0 ; */
+
+
+}
+li{
+    background-color: rgb(206, 246, 255);
+}
