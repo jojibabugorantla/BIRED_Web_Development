@@ -443,3 +443,12 @@
 .menu li:hover a{
     color: white;
 }
+div{
+    /* display: none; */   /*repalce any code */
+    visibility: hidden; /* reserve the place for some element */
+    /* display: inline; */
+  
+}
+a{
+    display: block;
+}
