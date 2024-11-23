@@ -445,9 +445,14 @@
 }
 div{
     /* display: none; */   /*repalce any code */
-    visibility: hidden; /* reserve the place for some element */
+    /* visibility: hidden; */ /*reserve the place for some element */
     /* display: inline; */
-  
+    padding: 10px;
+    float: left;
+}
+
+div:nth-child(2){
+    float: right;
 }
 a{
     display: block;
