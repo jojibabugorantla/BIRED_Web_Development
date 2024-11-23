@@ -1,0 +1,19 @@
+table ,th, td{
+    border: 1px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+    
+}
+th,td{
+    padding: 6px 16px;
+}
+th{
+    background-color: red;
+    color: white;
+}
+tr:nth-child(odd){
+    background-color: rgb(255, 165, 165);
+} 
+tr:hover{
+    background-color: rgb(253, 112, 51);
+    cursor: pointer;
+}
