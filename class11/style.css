@@ -1,3 +1,8 @@
+/* my-table-red-100  */
+
+.my-table-red-100{
+    width: 100%;
+}
 .my-table-red-100 table , .my-table-red-100 th, .my-table-red-100 td{
     border: 1px solid rgb(255, 255, 255);
     border-collapse: collapse;
@@ -18,6 +23,38 @@
     cursor: pointer;
 }
 .my-table-red-100 caption{
+    caption-side:top;
+    text-align: center;
+    background-color: red;
+    color: white;
+    
+}
+
+/* my-table-red-50  */
+
+.my-table-red-50{
+    width: 50%;
+}
+.my-table-red-50 table , .my-table-red-50 th, .my-table-red-50 td{
+    border: 1px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+    
+}
+.my-table-red-50 th, .my-table-red-50 td{
+    padding: 6px 16px;
+}
+.my-table-red-50 th{
+    background-color: red;
+    color: white;
+}
+.my-table-red-50 tr:nth-child(odd){
+    background-color: rgb(255, 165, 165);
+} 
+.my-table-red-50 tr:hover{
+    background-color: rgb(253, 112, 51);
+    cursor: pointer;
+}
+.my-table-red-50 caption{
     caption-side:top;
     text-align: center;
     background-color: red;
