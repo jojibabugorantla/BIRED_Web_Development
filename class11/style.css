@@ -1,23 +1,23 @@
-table ,th, td{
+.my-table-red-100 table , .my-table-red-100 th, .my-table-red-100 td{
     border: 1px solid rgb(255, 255, 255);
     border-collapse: collapse;
     
 }
-th,td{
+.my-table-red-100 th, .my-table-red-100 td{
     padding: 6px 16px;
 }
-th{
+.my-table-red-100 th{
     background-color: red;
     color: white;
 }
-tr:nth-child(odd){
+.my-table-red-100 tr:nth-child(odd){
     background-color: rgb(255, 165, 165);
 } 
-tr:hover{
+.my-table-red-100 tr:hover{
     background-color: rgb(253, 112, 51);
     cursor: pointer;
 }
-table caption{
+.my-table-red-100 caption{
     caption-side:top;
     text-align: center;
     background-color: red;
