@@ -126,3 +126,72 @@
     color: white;
     
 }
+
+
+
+/* my-table-blue-50  */
+.my-table-blue-50{
+    width: 50%;
+}
+
+.my-table-blue-50 table , .my-table-blue-50 th, .my-table-blue-50 td{
+    border: 1px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+    
+}
+.my-table-blue-50 th, .my-table-blue-50 td{
+    padding: 6px 16px;
+}
+.my-table-blue-50 th{
+    background-color:blue;
+    color: white;
+}
+.my-table-blue-50 tr:nth-child(odd){
+    background-color: rgb(184, 175, 242);
+} 
+.my-table-blue-50 tr:hover{
+    background-color: rgb(12, 0, 238);
+    cursor: pointer;
+}
+.my-table-blue-50 caption{
+    caption-side:top;
+    text-align: center;
+    background-color: rgb(70, 88, 255);
+    color: white;
+    
+}
+
+
+
+
+/* my-table-blue-100  */
+.my-table-blue-100{
+    width: 100%;
+}
+
+.my-table-blue-100 table , .my-table-blue-100 th, .my-table-blue-100 td{
+    border: 1px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+    
+}
+.my-table-blue-100 th, .my-table-blue-100 td{
+    padding: 6px 16px;
+}
+.my-table-blue-100 th{
+    background-color:blue;
+    color: white;
+}
+.my-table-blue-100 tr:nth-child(odd){
+    background-color: rgb(184, 175, 242);
+} 
+.my-table-blue-100 tr:hover{
+    background-color: rgb(12, 0, 238);
+    cursor: pointer;
+}
+.my-table-blue-100 caption{
+    caption-side:top;
+    text-align: center;
+    background-color: rgb(70, 88, 255);
+    color: white;
+    
+}
