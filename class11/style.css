@@ -430,6 +430,8 @@
     background-color: rgb(180, 255, 66);
     width: 100px;
     text-decoration: none;
+    display: inline-block;
+    /* float: right; */
 }
 .menu a:hover{
     text-decoration: none;
