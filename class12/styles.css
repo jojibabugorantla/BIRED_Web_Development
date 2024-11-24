@@ -36,13 +36,13 @@ body{
     background-color: red;
     top: 20px;
     right: 20px;
-    z-index: 1;
+    z-index: 4;
 }
 .box div:nth-child(2){
     background-color: rgb(166, 219, 45);
     top: 40px;
     right: 40px;
-    z-index: 2;
+    z-index: 3;
 }
 .box div:nth-child(3){
     background-color: rgb(255, 251, 17);
@@ -54,5 +54,13 @@ body{
     background-color: rgb(224, 72, 209);
     top: 80px;
     right: 80px;
-    z-index: 4;
+    z-index: 1;
+}
+
+
+.card{
+    margin: 50px;
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
 }
