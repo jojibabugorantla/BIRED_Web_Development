@@ -186,3 +186,47 @@ body{
     color: black;
     margin-top: 18px;
 }
+.fisrt-card select{
+    width: 100%;
+    margin: 20px 0 10px;
+    padding: 5px;
+    border-radius: 4px;
+}
+.fisrt-card .f4{
+    font-size: 18px;
+    font-weight: 800;
+}
+.fisrt-card .f4 del{
+    color: #aaa;
+    font-size: 14px;
+}
+.fisrt-card #xyz{
+    width: 100%;
+    margin: 5px 0 15px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 4px;
+    background-image: linear-gradient(to right, red, green,);
+}
+.fisrt-card button{
+    border: none;
+    outline: none;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 5px 5px 0;
+    width: 18%;
+    float: left;
+}
+.fisrt-card button.add{
+    width: 75%;
+    margin-left: 5%;
+    padding: 10px;
+    border-color: rgb(92, 0, 0);
+    color:  rgb(92, 0, 0);;
+}
+.fisrt-card button.add:hover{
+    background-color: rgb(112, 4, 4);
+    color: white;
+    pointer-events: ;
+}
