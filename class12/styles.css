@@ -146,6 +146,15 @@ body{
     padding: 10px;
     display: inline-block;
 }
+.fisrt-card .close{
+    position: absolute;
+    top: -5px;
+    right: 5px;
+    text-decoration: none;
+    font-size: 30px;
+    color: grey;
+
+}
 .fisrt-card .f-box{
     width: 100%;
     height: 240px;
